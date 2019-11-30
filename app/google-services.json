@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "514694052837",
+    "firebase_url": "https://tourdeiapplication-6a05a.firebaseio.com",
+    "project_id": "tourdeiapplication-6a05a",
+    "storage_bucket": "tourdeiapplication-6a05a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514694052837:android:5b2412d600d3bc28794d0c",
+        "android_client_info": {
+          "package_name": "com.example.tourdeiapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514694052837-39njfmeugpd31tpr7e5u0bioskd7ncog.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tourdeiapplication",
+            "certificate_hash": "1959495eb1a4d62ebc3a6aeb258e06e38757af7c"
+          }
+        },
+        {
+          "client_id": "514694052837-bafo2kl84scij8kbqqhuoeuhu8hvgon4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXMfHxGPqMuiqrJMaSsfVe0RGpsb5uFcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514694052837-bafo2kl84scij8kbqqhuoeuhu8hvgon4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
